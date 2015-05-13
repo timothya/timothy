@@ -144,9 +144,7 @@ Earned 95 credit hours towards Bachelor of Science.
 
 ### Volunteer
 
-#### Sheepdog Impact Assistance Non-Profit
-
-http://www.sheepdogia.org/
+#### [Sheepdog Impact Assistance Non-Profit](http://www.sheepdogia.org/)
 
 __Disaster Response Volunteer Member__
 
