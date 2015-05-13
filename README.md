@@ -1,6 +1,7 @@
 # Tim Hart
 
-OFallon, IL 
+OFallon, IL
+
 codermsu@gmail.com
 
 > I am an experienced technology professional with a passion for solving
@@ -8,12 +9,16 @@ codermsu@gmail.com
 
 ### Overview
 
-
-### Technical Skills
-
+* Linux
+* Vim and open source advocate.
 
 ### Employment History
 
+#### Federal Reserve Bank of St. Louis
+
+__Senior Web Developer__
+
+2009 - Present
 
 * Developed software to visualize economic and software performance related data
   * Setup ELK Stack to aggregate logs from 100+ instances, visualize incidents and website events.
@@ -64,5 +69,57 @@ to a Gitlab local installation.
   * Utilized Postgresql cluster with read-only slaves, partitioned tables, pg_pool and pgBouncer.
   * Managed MySQL with Info Security hardening requirements for department Wordpress blogs.
 
-* Vim and open source advocate.
+---
+
+#### Tower29 Marketing Group
+
+__Web Developer__
+
+November 2007 - April 2009
+
+---
+
+#### Imagery Marketing Group
+
+__Web Developer__
+
+September 2005 - November 2007
+
+---
+
+#### Computer Room / KSPEI
+
+__Computer Technician__
+
+May - September 2005
+
+---
+
+#### Imagery Marketing Consultants
+
+__Intern - Web Development__
+
+1998 - 1999
+
+
+---
+
+### Education
+
+#### Murray State University
+__Computer Science__
+
+Earned 95 credit hours towards Bachelor of Science.
+
+---
+
+### Volunteer
+
+#### Sheepdog Impact Assistance Non-Profit
+
+http://www.sheepdogia.org/
+
+__Disaster Response Volunteer Member__
+
+2013 - Present
 
