@@ -29,9 +29,9 @@ __Senior Web Developer__
 
 2009 - Present
 
-Developer on the [FRED Project](https://research.stlouisfed.org/fred2/)
+##### Developer on the [FRED Project](https://research.stlouisfed.org/fred2/)
 
-_Developed software to visualize economic and software performance related data_
+##### Developed software to visualize economic and software performance related data
 
 * Setup ELK Stack to aggregate logs from 100+ instances, visualize incidents and website events.
 * Implemented and monitored Google Analytics to track page load times and prioritize efforts on most trafficked sections.
@@ -39,9 +39,8 @@ _Developed software to visualize economic and software performance related data_
 charts, custom Gitlab integration.
 * Other tools used include: PHP, Perl, R, Highcharts and Graphite
 
-_Mentored junior developers on topics including:_
-
-##### Use of version control (git)
+##### Mentored junior developers on topics including:
+* Use of version control (git)
 * Test driven development techniques
 * OOP design patterns
 * Optimizing their workflow
