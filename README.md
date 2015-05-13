@@ -7,19 +7,29 @@ codermsu@gmail.com
 > I am an experienced technology professional with a passion for solving
 > difficult problems using open source tools.
 
+---
+
 ### Overview
 
-* Linux
-* Vim and open source advocate.
+* 10+ years experience developing software.
+* 10+ years experience using Linux as a desktop and server platform.
+* Strong front-end development skills.
+* Git advocate.
+* Proponent of automated testing and the extensive use of QA tools.
+* Vim changed my life.
+* Live to learn.
+
+---
 
 ### Employment History
 
-#### Federal Reserve Bank of St. Louis
+#### [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/)
 
 __Senior Web Developer__
 
 2009 - Present
 
+* Developer on the [FRED Project](https://research.stlouisfed.org/fred2/)
 * Developed software to visualize economic and software performance related data
   * Setup ELK Stack to aggregate logs from 100+ instances, visualize incidents and website events.
   * Implemented and monitored Google Analytics to track page load times and prioritize efforts on most trafficked sections.
@@ -77,17 +87,36 @@ __Web Developer__
 
 November 2007 - April 2009
 
+* Created online marketing strategies for clients usinging a mix of
+promotions, email campaigns, pay-per-click advertising and improving
+their website's structure and content.
+
+* Streamlined development process usinging open-source tools to reduce
+turnaround time of new projects.
+
+* Introduced analytics with KPIs to the development process to replace subjective design decisions.
+
+* Developed client websites using standards-based HTML, PHP, JavaScript and various open-source tools
+
 ---
 
-#### Imagery Marketing Group
+#### [Imagery Marketing Group](http://www.imagerymarketinggroup.com/)
 
 __Web Developer__
 
 September 2005 - November 2007
 
+* Developed a hosted online payment platform with Point of Sales integration for the Rental-Purchase industry (PCI DSS Compliant).
+
+* Developed hosted survey tool for monitoring the impact of each marketing initiative from the clients' perspective.
+
+* Developed client websites using standards-based HTML, PHP and JavaScript.
+
+* Implemented website analytics conversion tracking on clients' websites.
+
 ---
 
-#### Computer Room / KSPEI
+#### [Computer Room / KSPEI](http://www.computerroom.us/)
 
 __Computer Technician__
 
@@ -95,7 +124,7 @@ May - September 2005
 
 ---
 
-#### Imagery Marketing Consultants
+#### [Imagery Marketing Group](http://www.imagerymarketinggroup.com/)
 
 __Intern - Web Development__
 
@@ -106,7 +135,7 @@ __Intern - Web Development__
 
 ### Education
 
-#### Murray State University
+#### [Murray State University](http://www.murraystate.edu/)
 __Computer Science__
 
 Earned 95 credit hours towards Bachelor of Science.
