@@ -61,7 +61,7 @@ charts, custom Gitlab integration.
 
 ##### Introduced Git as the standard version control for all projects for our team.
 * Developed and presented user training for new users of Git, Gitlab and effective use of issue tracking for reporting software defects.
-* Developed deployment process to dev and staging using git bare repositories, git hooks and git repo with working directory.
+* Setup, documented and demonstrated a deployment process to dev & staging environments using git (bare repository, git-hooks and working directory).
 * Introduced Github Enterprise issues as department standard for tracking software defects and tester feedback.
 * Assisted Lead Linux Administrator with migration from GitHub Enterprise
 to a Gitlab local installation.
