@@ -43,7 +43,7 @@ charts, custom Gitlab integration.
 * Use of version control (git)
 * Test driven development techniques
 * OOP design patterns
-* Optimizing their workflow
+* Workflow 
 * Code review
 
 ##### Backup to Lead Linux System Administrator 2010 - 2014
