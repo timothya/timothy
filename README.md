@@ -87,11 +87,11 @@ __Web Developer__
 
 November 2007 - April 2009
 
-* Created online marketing strategies for clients usinging a mix of
+* Created online marketing strategies for clients using a mix of
 promotions, email campaigns, pay-per-click advertising and improving
 their website's structure and content.
 
-* Streamlined development process usinging open-source tools to reduce
+* Streamlined development process using open-source tools to reduce
 turnaround time of new projects.
 
 * Introduced analytics with KPIs to the development process to replace subjective design decisions.
