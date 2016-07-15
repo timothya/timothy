@@ -12,7 +12,7 @@ codermsu@gmail.com
 ### Overview
 
 * 10+ years experience developing software.
-* 10+ years experience using Linux as a desktop and server platform.
+* 10+ years Linux experience.
 * Strong front-end development skills.
 * Git advocate.
 * Proponent of automated testing and the extensive use of QA tools.
@@ -23,48 +23,58 @@ codermsu@gmail.com
 
 ### Employment History
 
+#### [MetroGistics, LLC](http://www.metrogistics.com/)
+
+__Senior Software Engineer__
+
+
+March 2016 - Present
+
 #### [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/)
 
 __Senior Web Developer__
 
-2009 - Present
+April 2009 - February 2016
 
 ##### Developer on the [FRED Project](https://research.stlouisfed.org/fred2/)
+
+* PHP
+* Postgresql, Redis
+* Linux, Apache, Varnish
+* JavaScript, HighCharts, node, mocha
 
 ##### Developed software to visualize economic and software performance related data
 
 * Setup ELK Stack to aggregate logs from 100+ instances, visualize incidents and website events.
 * Implemented and monitored Google Analytics to track page load times and prioritize efforts on most trafficked sections.
-* Developed a test suite with regression tracker for testing edge case
-charts, custom Gitlab integration.
+* Developed a test suite with regression tracker for testing edge case charts with custom issue tracker integration.
 * Other tools used include: PHP, Perl, R, Highcharts and Graphite
 
 ##### Mentored junior developers on topics including:
 * Use of version control (git)
 * Test driven development techniques
 * OOP design patterns
-* Workflow 
-* Code review
+* Workflow and SDLC related issues
+* Code review and issue tracking
 
 ##### Backup to Lead Linux System Administrator 2010 - 2014
 * Monitored uptime, responsiveness and incident response using syslog, loggly, pingdom, custom scripts and other tools.
-* Assisted in network redesign migration to multiple zones per info security requirements.
+* Assisted in network redesign migration to multiple zones per information security requirements.
 * Assisted server migration to a virtualized stack (KVM) from a physical machine per host.
-* Utilize VirtualBox & Vagrant for temporary local development environments.
+* Utilize VirtualBox & Vagrant for local development environments.
 
 ##### Experienced Apache web server administrator.
 * Tuned Apache configuration and test load capacity with siege and apache bench (ab).
 * Experience load balancing web servers with Apache mod_proxy.
-* Introduced Memcached, then Redis as session storage service and db result caching.
-* Utilize tiered Varnish cache on load balancers for HTTP acceleration and edge side includes.
+* Introduced Redis as a session storage service and db result caching.
+* Utilized tiered Varnish cache on load balancers for HTTP acceleration and edge side includes.
 * Implemented Google mod_spdy in development environment.
 
 ##### Introduced Git as the standard version control for all projects for our team.
 * Developed and presented user training for new users of Git, Gitlab and effective use of issue tracking for reporting software defects.
 * Setup, documented and demonstrated a deployment process to dev & staging environments using git (bare repository, git-hooks and working directory).
 * Introduced Github Enterprise issues as department standard for tracking software defects and tester feedback.
-* Assisted Lead Linux Administrator with migration from GitHub Enterprise
-to a Gitlab local installation.
+* Assisted Lead Linux Administrator with migration from GitHub Enterprise to a Gitlab local installation.
 
 ##### Built, racked and setup off-site contingency environment in a secure data center.
 * Assisted Lead Linux Admin with an automated solution for syncing code, environments and data from production to the contingency environment.
@@ -132,13 +142,14 @@ __Intern - Web Development__
 
 1998 - 1999
 
-
 ---
 
 ### Education
 
 #### [Murray State University](http://www.murraystate.edu/)
 __Computer Science__
+
+2000 - 2005
 
 Earned 95 credit hours towards Bachelor of Science.
 
