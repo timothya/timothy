@@ -30,6 +30,8 @@ __Senior Software Engineer__
 
 March 2016 - Present
 
+---
+
 #### [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/)
 
 __Senior Web Developer__
